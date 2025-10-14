@@ -1,0 +1,538 @@
+/* About Page Styles */
+.about-page {
+  margin-top: 0;
+  font-family: 'Lato', 'Inter', sans-serif;
+  background: #0A1A2F;
+  color: #FFFFFF;
+ 
+ 
+
+/* Hero Section */
+.about-hero {
+  position: relative;
+  padding: 5rem 0;
+  background: #121212;
+  color: #D4AF37;
+  text-align: center;
+  overflow: hidden;
+}
+}
+
+.hero-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url('https://images.unsplash.com/photo-1560448075-bb485b1660a7?w=1200&h=600&fit=crop');
+  background-size: cover;
+  background-position: center;
+  opacity: 0.2;
+  z-index: 0;
+}
+
+.about-hero-overlay {
+  position: relative;
+  z-index: 1;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.about-title {
+  font-size: 3.5rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  animation: fadeInUp 1s ease-out;
+  color: #D4AF37;
+  letter-spacing: 1px;
+  text-shadow: none;
+}
+
+.about-subtitle {
+  font-size: 1.4rem;
+  margin-bottom: 3rem;
+  opacity: 0.95;
+  max-width: 800px;
+}
+
+/* Team Section */
+.team-section {
+  padding: 5rem 0;
+  background: #0A1A2F;
+}
+
+.team-grid {
+  display: grid;
+  gap: 2rem;
+  margin-top: 3rem;
+}
+
+/* Founder Section - Center single card */
+.founder-grid {
+  display: flex;
+  justify-content: center;
+}
+
+.stat-item {
+  text-align: center;
+  padding: 1.5rem;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 15px;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.stat-number {
+  display: block;
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #D4AF37;
+  margin-bottom: 0.5rem;
+}
+
+.stat-label {
+  font-size: 1rem;
+  opacity: 0.9;
+}
+
+/* Container */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+/* Story Section */
+.about-section1 {
+  padding: 5rem 0;
+}
+
+.story-content1 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4rem;
+  align-items: center;
+}
+
+/* When image-left class is present, put image in the first column (left) */
+.story-content1.image-left {
+  grid-template-columns: 450px 1fr;
+}
+
+/* Ensure the image appears on the left visually by ordering elements if needed */
+.story-content1.image-left .story-image {
+  order: -1; /* keep image first */
+}
+
+.section-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #D4AF37;
+  margin-bottom: 2rem;
+  position: relative;
+}
+
+.section-title::after {
+  content: '';
+  position: absolute;
+  bottom: -10px;
+  left: 0;
+  width: 60px;
+  height: 4px;
+  background: #1e40af;
+  border-radius: 2px;
+}
+
+.about-text {
+  font-size: 1.15rem;
+  line-height: 1.8;
+  color: #CCCCCC;
+  margin-bottom: 1.5rem;
+}
+
+.story-image img {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.story-placeholder {
+  width: 100%;
+  height: 400px;
+  border: 2px dashed #666;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 0.05);
+  color: #999;
+  text-align: center;
+}
+
+.story-placeholder p {
+  font-style: italic;
+  margin: 0;
+}
+
+/* Responsive: stack on small screens */
+@media (max-width: 768px) {
+  .story-content1,
+  .story-content1.image-left {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+  .story-content1.image-left .story-image {
+    order: 0;
+  }
+  .story-image img {
+    height: 300px;
+  }
+}
+
+/* Values Section */
+.values-section {
+  padding: 5rem 0;
+  background: #0A1A2F;
+}
+
+.values-section .section-title {
+  text-align: center;
+  margin-bottom: 3rem;
+  color: #D4AF37;
+}
+
+.values-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+}
+
+.value-card {
+  background: #121212;
+  padding: 2.5rem 2rem;
+  border-radius: 15px;
+  text-align: center;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border: 1px solid #D4AF37;
+}
+
+.value-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 30px rgba(212, 175, 55, 0.15);
+}
+
+.value-icon {
+  width: 60px;
+  height: 60px;
+  color: #D4AF37;
+  margin-bottom: 1.5rem;
+}
+
+.value-card h3 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #D4AF37;
+  font-family: 'Merriweather', Georgia, serif;
+  margin-bottom: 1rem;
+}
+
+.value-card p {
+  color: #CCCCCC;
+  line-height: 1.6;
+  font-size: 1rem;
+}
+
+/* Mission & Vision Section */
+.mission-vision {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem;
+  padding: 5rem 0;
+}
+
+.about-card {
+  background: white;
+  padding: 2.5rem;
+  border-radius: 15px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
+  border: 1px solid #e9ecef;
+}
+
+.card-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.card-icon {
+  width: 40px;
+  height: 40px;
+  color: #D4AF37;
+}
+
+.card-header h3 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #8B0000;
+  font-family: 'Merriweather', Georgia, serif;
+  margin: 0;
+}
+
+.about-card p {
+  color: #6c757d;
+  line-height: 1.7;
+  font-size: 1rem;
+}
+
+/* Team Section */
+.team-section {
+  padding: 5rem 0;
+  background: #f8f9fa;
+}
+
+.team-section .section-title {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+}
+
+.team-card {
+  background: white;
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
+  transition: transform 0.3s ease;
+}
+
+.team-card:hover {
+  transform: translateY(-5px);
+}
+
+.team-image {
+  width: 100%;
+  height: 250px;
+  overflow: hidden;
+}
+
+.team-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.team-info {
+  padding: 2rem;
+}
+
+.team-info h3 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #8B0000;
+  font-family: 'Merriweather', Georgia, serif;
+  margin-bottom: 0.5rem;
+}
+
+.team-role {
+  color: #D4AF37;
+  font-weight: 500;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+}
+
+.team-bio {
+  color: #6c757d;
+  line-height: 1.6;
+  font-size: 0.95rem;
+}
+
+/* Sustainability Section */
+.sustainability-section {
+  padding: 5rem 0;
+}
+
+.sustainability-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4rem;
+  align-items: center;
+}
+
+.sustainability-list {
+  list-style: none;
+  padding: 0;
+  margin: 2rem 0;
+}
+
+.sustainability-list li {
+  padding: 0.75rem 0;
+  padding-left: 2rem;
+  position: relative;
+  color: #555;
+  font-size: 1rem;
+}
+
+.sustainability-list li::before {
+  content: '✓';
+  position: absolute;
+  left: 0;
+  color: #28a745;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.sustainability-image img {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+/* CTA Section */
+.about-cta {
+  padding: 5rem 0;
+  background: linear-gradient(135deg, #D4AF37 0%, #a58723 100%);
+  color: white;
+  text-align: center;
+}
+
+.cta-content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.cta-content h2 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  font-family: 'Merriweather', Georgia, serif;
+}
+
+.cta-content p {
+  font-size: 1.2rem;
+  margin-bottom: 2.5rem;
+  opacity: 0.9;
+  line-height: 1.6;
+}
+
+.cta-buttons {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.about-btn {
+  padding: 1rem 2rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+  display: inline-block;
+}
+
+.about-btn.primary {
+  background: white;
+  color: #D4AF37;
+}
+
+.about-btn.primary:hover {
+  background: #f8f9fa;
+  transform: translateY(-2px);
+}
+
+.about-btn.secondary {
+  background: transparent;
+  color: white;
+  border: 2px solid white;
+}
+
+.about-btn.secondary:hover {
+  background: white;
+  color: #D4AF37;
+  transform: translateY(-2px);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .about-title {
+    font-size: 2.5rem;
+  }
+
+  .about-subtitle {
+    font-size: 1.2rem;
+  }
+
+  .hero-stats {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+
+  .story-content1,
+  .sustainability-content,
+  .mission-vision {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .values-grid,
+  .team-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .section-title {
+    font-size: 2rem;
+  }
+
+  .cta-buttons {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .about-btn {
+    width: 100%;
+    max-width: 300px;
+  }
+}
+
+@media (max-width: 480px) {
+  .about-hero {
+    padding: 3rem 0;
+  }
+
+  .about-title {
+    font-size: 2rem;
+  }
+
+  .hero-stats {
+    grid-template-columns: 1fr;
+  }
+
+  .stat-number {
+    font-size: 2rem;
+  }
+
+  .about-section1,
+  .values-section,
+  .team-section,
+  .sustainability-section,
+  .about-cta {
+    padding: 3rem 0;
+  }
+
+  .container {
+    padding: 0 1rem;
+  }
+}

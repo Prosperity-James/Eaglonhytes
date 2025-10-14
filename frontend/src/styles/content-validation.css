@@ -1,0 +1,54 @@
+/* General error message styles */
+.error-message,
+.register-error,
+.login-error,
+.auth-error,
+.content-validation-error {
+  color: #dc3545;
+  font-size: 13px;
+  margin-top: 4px;
+  display: block;       /* full width */
+  font-weight: 500;
+  text-align: left;
+  line-height: 1.4;
+  padding-left: 2px;
+  clear: both;          /* ensures it drops below the input */
+}
+
+/* Input field styling when invalid */
+.invalid-content {
+  border-color: #dc3545 !important;
+  box-shadow: 0 0 0 0.2rem rgba(220, 53, 69, 0.25) !important;
+}
+
+/* Form group styling */
+.register-form-group,
+.login-form-group,
+.form-group {
+  position: relative;
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: column; /* stack input + error vertically */
+}
+
+/* Optional icon before text */
+.content-validation-error::before {
+  content: "⚠ ";
+  margin-right: 2px;
+}
+
+/* Success state for validated content */
+.valid-content {
+  border-color: #28a745 !important;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .error-message,
+  .register-error,
+  .login-error,
+  .auth-error,
+  .content-validation-error {
+    font-size: 12px;
+  }
+}

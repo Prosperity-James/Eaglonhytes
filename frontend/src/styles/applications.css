@@ -1,0 +1,332 @@
+.applications-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: 'Lato', sans-serif;
+}
+
+  .applications-header {
+    font-family: "Merriweather", Georgia, serif;
+    font-size: 2.5rem;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 2rem;
+    color: #D4AF37;
+    background: none;
+}
+
+  .applications-header h1 {
+    color: #D4AF37;
+    margin-bottom: 10px;
+    font-family: 'Merriweather', Georgia, serif;
+}
+
+  .applications-header p {
+    color: #CCCCCC;
+    font-size: 16px;
+}
+
+  .no-applications {
+    text-align: center;
+    padding: 60px 20px;
+    background: #121212;
+    border-radius: 12px;
+}
+
+.no-applications h3 {
+  color: #2c3e50;
+  margin-bottom: 15px;
+}
+
+.no-applications p {
+  color: #6c757d;
+  margin-bottom: 20px;
+}
+
+.browse-btn {
+  background: #007bff;
+  color: white;
+  text-decoration: none;
+  padding: 12px 24px;
+  border-radius: 6px;
+  display: inline-block;
+  transition: background 0.3s ease;
+}
+
+.browse-btn:hover {
+  background: #0056b3;
+  text-decoration: none;
+  color: white;
+}
+
+.applications-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.application-card {
+  background: #FFFFFF;
+  border-radius: 15px;
+  padding: 25px;
+  margin-bottom: 20px;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+  border: 1px solid #F5F5F5;
+  transition: all 0.3s ease;
+}
+
+.application-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 40px rgba(255, 102, 0, 0.15);
+}
+
+.application-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.application-header h3 {
+  color: #2c3e50;
+  margin: 0;
+  font-size: 20px;
+}
+
+.status-badge {
+  display: inline-block;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.application-details {
+  color: #666666;
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+.detail-row {
+  display: flex;
+  margin-bottom: 10px;
+  align-items: flex-start;
+}
+
+.detail-row strong {
+  min-width: 180px;
+  color: #2c3e50;
+  margin-right: 10px;
+}
+
+.notes {
+  background: #f8f9fa;
+  padding: 10px;
+  border-radius: 4px;
+  margin-top: 5px;
+  color: #495057;
+  line-height: 1.5;
+}
+
+.admin-notes {
+  background: #fff3cd;
+  padding: 15px;
+  border-radius: 6px;
+  border-left: 4px solid #ffc107;
+}
+
+.admin-notes strong {
+  color: #856404;
+}
+
+.admin-notes .notes {
+  background: transparent;
+  color: #856404;
+}
+
+.application-actions {
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+}
+
+.edit-btn {
+  background: #ffc107;
+  color: #212529;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background 0.3s ease;
+}
+
+.edit-btn:hover {
+  background: #e0a800;
+}
+
+.view-land-btn {
+  background: #007bff;
+  border: none;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.view-land-btn a {
+  color: white;
+  text-decoration: none;
+  padding: 8px 16px;
+  display: block;
+  font-size: 14px;
+  transition: background 0.3s ease;
+}
+
+.view-land-btn:hover {
+  background: #0056b3;
+}
+
+.view-land-btn:hover a {
+  color: white;
+}
+
+.loading {
+  text-align: center;
+  padding: 60px 20px;
+  font-size: 18px;
+  color: #6c757d;
+}
+
+.status-pending {
+  background: #FFF3E0;
+  color: #D4AF37;
+  border: 1px solid #D4AF37;
+}
+
+.land-title {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  color: #000000;
+}
+
+@media (max-width: 1024px) {
+  .applications-container {
+    padding: 15px;
+  }
+  
+  .application-card {
+    padding: 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .applications-container {
+    padding: 10px;
+  }
+  
+  .applications-header h1 {
+    font-size: 1.8rem;
+  }
+  
+  .application-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+  }
+  
+  .application-header h3 {
+    font-size: 18px;
+  }
+  
+  .detail-row {
+    flex-direction: column;
+    margin-bottom: 12px;
+  }
+  
+  .detail-row strong {
+    min-width: auto;
+    margin-bottom: 5px;
+    font-size: 14px;
+  }
+  
+  .application-actions {
+    flex-direction: column;
+    gap: 8px;
+  }
+  
+  .edit-btn, .view-apartment-btn {
+    width: 100%;
+    text-align: center;
+  }
+  
+  .view-apartment-btn a {
+    width: 100%;
+    text-align: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .applications-container {
+    padding: 8px;
+  }
+  
+  .applications-header {
+    margin-bottom: 20px;
+  }
+  
+  .applications-header h1 {
+    font-size: 1.6rem;
+    margin-bottom: 8px;
+  }
+  
+  .applications-header p {
+    font-size: 14px;
+  }
+  
+  .application-card {
+    padding: 15px;
+    margin-bottom: 15px;
+  }
+  
+  .application-header h3 {
+    font-size: 16px;
+    margin-bottom: 8px;
+  }
+  
+  .status-badge {
+    font-size: 11px;
+    padding: 4px 8px;
+  }
+  
+  .detail-row strong {
+    font-size: 13px;
+  }
+  
+  .notes {
+    padding: 8px;
+    font-size: 14px;
+  }
+  
+  .admin-notes {
+    padding: 12px;
+  }
+  
+  .no-applications {
+    padding: 40px 15px;
+  }
+  
+  .no-applications h3 {
+    font-size: 1.4rem;
+  }
+  
+  .browse-btn {
+    padding: 10px 20px;
+    font-size: 14px;
+  }
+}

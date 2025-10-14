@@ -1,0 +1,31 @@
+# Minimal Security Configuration for XAMPP compatibility
+
+# Prevent directory listing
+Options -Indexes
+
+# Basic file protection (using older Apache 2.2 syntax for compatibility)
+<Files "*.env">
+    Order allow,deny
+    Deny from all
+</Files>
+
+<Files "*.log">
+    Order allow,deny
+    Deny from all
+</Files>
+
+<Files "config.php">
+    Order allow,deny
+    Deny from all
+</Files>
+
+<Files "env_production.php">
+    Order allow,deny
+    Deny from all
+</Files>
+
+# Basic security headers (only if mod_headers is available)
+<IfModule mod_headers.c>
+    Header set X-Content-Type-Options "nosniff"
+    Header set X-Frame-Options "SAMEORIGIN"
+</IfModule>

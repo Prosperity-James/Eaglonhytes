@@ -1,0 +1,1263 @@
+=== EMAIL NOTIFICATION ===
+To: pchukwuemeka1810@gmail.com
+Subject: 🎉 Your Land Application Has Been Approved - Eaglonhytes
+Time: 2025-09-14 13:12:10
+Action: approved
+Content: 
+        
+        
+            
+                body { font-family: 'Arial', sans-serif; line-height: 1.6; color: #333; }
+                .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+                .header { background: linear-gradient(135deg, #6366f1, #8b5cf6); color: white; padding: 30px; text-align: center; border-radius: 10px 10px 0 0; }
+                .content { background: #f8fafc; padding: 30px; border-radius: 0 0 10px 10px; }
+                .success-badge { background: #10b981; color: white; padding: 8px 16px; border-radius: 20px; display: inline-block; font-weight: bold; margin: 10px 0; }
+                .land-details { background: white; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #6366f1; }
+                .payment-info { background: #fef3c7; border: 1px solid #f59e0b; padding: 20px; border-radius: 8px; margin: 20px 0; }
+                .footer { text-align: center; margin-top: 30px; color: #6b7280; }
+            
+        
+        
+            
+                
+                    🏠 Eaglonhytes
+                    Congratulations!
+                
+                
+                    ✅ APPLICATION APPROVED
+                    
+                    Dear promise User,
+                    
+                    We are delighted to inform you that your land application has been approved!
+                    
+                    
+                        📍 Land Details:
+                        Property: Discover this Unique & Luxurious Fully 
+                        Address: 4Th Floor Tower C, ChurchGate Plaza, Constitution Avenue, Abuja,FCT, FCT, Abuja
+                        Application ID: #2
+                    
+                    
+                    
+                        💳 Payment Information
+                        Important: Payment will be done directly at the property location. Our team will contact you within 24 hours to schedule your site visit and payment collection.
+                    
+                    
+                    🎯 Next Steps:
+                    
+                        Our leasing team will contact you within 24 hours
+                        Schedule your move-in appointment
+                        Prepare required documents and payment
+                        Complete the lease signing process
+                    
+                    
+                    Welcome to the Eaglonhytes community! We look forward to having you as our valued tenant.
+                    
+                    If you have any questions, please don't hesitate to contact us at leasing@zinqbridge.com or call us at +234 (0) 803 123 4567.
+                    
+                    
+                        Best regards,
+                        Eaglonhytes Team
+                        4th Floor Tower C, ChurchGate Plaza
+                        Constitution Avenue, Abuja, FCT
+                    
+                
+            
+        
+        
+========================
+
+=== REAL EMAIL READY TO SEND ===
+To: ibehpromise30@gmail.com
+Subject: 🎉 Your Apartment Application Has Been Approved - Eaglonhytes
+Time: 2025-09-14 13:16:56
+Action: approved
+SMTP Server: smtp.gmail.com:587
+Status: Configure Gmail credentials to send real emails
+Content: 
+        
+        
+            
+                body { font-family: 'Arial', sans-serif; line-height: 1.6; color: #333; }
+                .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+                .header { background: linear-gradient(135deg, #6366f1, #8b5cf6); color: white; padding: 30px; text-align: center; border-radius: 10px 10px 0 0; }
+                .content { background: #f8fafc; padding: 30px; border-radius: 0 0 10px 10px; }
+                .success-badge { background: #10b981; color: white; padding: 8px 16px; border-radius: 20px; display: inline-block; font-weight: bold; margin: 10px 0; }
+                .apartment-details { background: white; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #6366f1; }
+                .payment-info { background: #fef3c7; border: 1px solid #f59e0b; padding: 20px; border-radius: 8px; margin: 20px 0; }
+                .footer { text-align: center; margin-top: 30px; color: #6b7280; }
+            
+        
+        
+            
+                
+                    🏠 Eaglonhytes
+                    Congratulations!
+                
+                
+                    ✅ APPLICATION APPROVED
+                    
+                    Dear promise User,
+                    
+                    We are delighted to inform you that your apartment application has been approved!
+                    
+                    
+                        📍 Apartment Details:
+                        Property: Discover this Unique & Luxurious Fully 
+                        Address: 4Th Floor Tower C, ChurchGate Plaza, Constitution Avenue, Abuja,FCT, FCT, Abuja
+                        Application ID: #2
+                    
+                    
+                    
+                        💳 Payment Information
+                        Important: Payment will be done directly at the apartment location. Our leasing team will contact you within 24 hours to schedule your move-in appointment and payment collection.
+                    
+                    
+                    🎯 Next Steps:
+                    
+                        Our leasing team will contact you within 24 hours
+                        Schedule your move-in appointment
+                        Prepare required documents and payment
+                        Complete the lease signing process
+                    
+                    
+                    Welcome to the Eaglonhytes community! We look forward to having you as our valued tenant.
+                    
+                    If you have any questions, please don't hesitate to contact us at leasing@zinqbridge.com or call us at +234 (0) 803 123 4567.
+                    
+                    
+                        Best regards,
+                        Eaglonhytes Team
+                        4th Floor Tower C, ChurchGate Plaza
+                        Constitution Avenue, Abuja, FCT
+                    
+                
+            
+        
+        
+===================================
+
+=== REAL EMAIL READY TO SEND ===
+To: ibehpromise30@gmail.com
+Subject: 🎉 Your Apartment Application Has Been Approved - Eaglonhytes
+Time: 2025-09-14 13:21:37
+Action: approved
+SMTP Server: smtp.gmail.com:587
+Status: Configure Gmail credentials to send real emails
+Content: 
+        
+        
+            
+                body { font-family: 'Arial', sans-serif; line-height: 1.6; color: #333; }
+                .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+                .header { background: linear-gradient(135deg, #6366f1, #8b5cf6); color: white; padding: 30px; text-align: center; border-radius: 10px 10px 0 0; }
+                .content { background: #f8fafc; padding: 30px; border-radius: 0 0 10px 10px; }
+                .success-badge { background: #10b981; color: white; padding: 8px 16px; border-radius: 20px; display: inline-block; font-weight: bold; margin: 10px 0; }
+                .apartment-details { background: white; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #6366f1; }
+                .payment-info { background: #fef3c7; border: 1px solid #f59e0b; padding: 20px; border-radius: 8px; margin: 20px 0; }
+                .footer { text-align: center; margin-top: 30px; color: #6b7280; }
+            
+        
+        
+            
+                
+                    🏠 Eaglonhytes
+                    Congratulations!
+                
+                
+                    ✅ APPLICATION APPROVED
+                    
+                    Dear promise User,
+                    
+                    We are delighted to inform you that your apartment application has been approved!
+                    
+                    
+                        📍 Apartment Details:
+                        Property: Discover this Unique & Luxurious Fully 
+                        Address: 4Th Floor Tower C, ChurchGate Plaza, Constitution Avenue, Abuja,FCT, FCT, Abuja
+                        Application ID: #2
+                    
+                    
+                    
+                        💳 Payment Information
+                        Important: Payment will be done directly at the apartment location. Our leasing team will contact you within 24 hours to schedule your move-in appointment and payment collection.
+                    
+                    
+                    🎯 Next Steps:
+                    
+                        Our leasing team will contact you within 24 hours
+                        Schedule your move-in appointment
+                        Prepare required documents and payment
+                        Complete the lease signing process
+                    
+                    
+                    Welcome to the Eaglonhytes community! We look forward to having you as our valued tenant.
+                    
+                    If you have any questions, please don't hesitate to contact us at leasing@zinqbridge.com or call us at +234 (0) 803 123 4567.
+                    
+                    
+                        Best regards,
+                        Eaglonhytes Team
+                        4th Floor Tower C, ChurchGate Plaza
+                        Constitution Avenue, Abuja, FCT
+                    
+                
+            
+        
+        
+===================================
+
+=== EMAIL FAILED ===
+To: ibehpromise30@gmail.com
+Subject: 🎉 Your Apartment Application Has Been Approved - Eaglonhytes
+Time: 2025-09-14 21:40:00
+Action: approved
+Error: STARTTLS failed: 250-SIZE 35882577
+
+Status: FAILED - Check Gmail App Password
+Content: 
+        
+        
+            
+                body { font-family: 'Arial', sans-serif; line-height: 1.6; color: #333; }
+                .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+                .header { background: linear-gradient(135deg, #6366f1, #8b5cf6); color: white; padding: 30px; text-align: center; border-radius: 10px 10px 0 0; }
+                .content { background: #f8fafc; padding: 30px; border-radius: 0 0 10px 10px; }
+                .success-badge { background: #10b981; color: white; padding: 8px 16px; border-radius: 20px; display: inline-block; font-weight: bold; margin: 10px 0; }
+                .apartment-details { background: white; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #6366f1; }
+                .payment-info { background: #fef3c7; border: 1px solid #f59e0b; padding: 20px; border-radius: 8px; margin: 20px 0; }
+                .footer { text-align: center; margin-top: 30px; color: #6b7280; }
+            
+        
+        
+            
+                
+                    🏠 Eaglonhytes
+                    Congratulations!
+                
+                
+                    ✅ APPLICATION APPROVED
+                    
+                    Dear Test User,
+                    
+                    We are delighted to inform you that your apartment application has been approved!
+                    
+                    
+                        📍 Apartment Details:
+                        Property: Test Prime Land
+                        Address: 123 Test Street, Test City, Test State
+                        Application ID: #999
+                    
+                    
+                    
+                        💳 Payment Information
+                        Important: Payment will be done directly at the apartment location. Our leasing team will contact you within 24 hours to schedule your move-in appointment and payment collection.
+                    
+                    
+                    🎯 Next Steps:
+                    
+                        Our leasing team will contact you within 24 hours
+                        Schedule your move-in appointment
+                        Prepare required documents and payment
+                        Complete the lease signing process
+                    
+                    
+                    Welcome to the Eaglonhytes community! We look forward to having you as our valued tenant.
+                    
+                    If you have any questions, please don't hesitate to contact us at leasing@zinqbridge.com or call us at +234 (0) 803 123 4567.
+                    
+                    
+                        Best regards,
+                        Eaglonhytes Team
+                        4th Floor Tower C, ChurchGate Plaza
+                        Constitution Avenue, Abuja, FCT
+                    
+                
+            
+        
+        
+===================
+
+=== EMAIL FAILED ===
+To: ibehpromise30@gmail.com
+Subject: Update on Your Apartment Application - Eaglonhytes
+Time: 2025-09-14 21:40:00
+Action: rejected
+Error: STARTTLS failed: 250-SIZE 35882577
+
+Status: FAILED - Check Gmail App Password
+Content: 
+        
+        
+            
+                body { font-family: 'Arial', sans-serif; line-height: 1.6; color: #333; }
+                .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+                .header { background: linear-gradient(135deg, #ef4444, #f97316); color: white; padding: 30px; text-align: center; border-radius: 10px 10px 0 0; }
+                .content { background: #f8fafc; padding: 30px; border-radius: 0 0 10px 10px; }
+                .rejection-badge { background: #ef4444; color: white; padding: 8px 16px; border-radius: 20px; display: inline-block; font-weight: bold; margin: 10px 0; }
+                .apartment-details { background: white; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #ef4444; }
+                .reason-box { background: #fef2f2; border: 1px solid #fecaca; padding: 20px; border-radius: 8px; margin: 20px 0; }
+                .footer { text-align: center; margin-top: 30px; color: #6b7280; }
+            
+        
+        
+            
+                
+                    🏠 Eaglonhytes
+                    Application Update
+                
+                
+                    ❌ APPLICATION NOT APPROVED
+                    
+                    Dear Test User,
+                    
+                    Thank you for your interest in Eaglonhytes. After careful review, we regret to inform you that we are unable to approve your application at this time.
+                    
+                    
+                        📍 Application Details:
+                        Property: Test Luxury Apartment
+                        Address: 123 Test Street, Test City, Test State
+                        Application ID: #999
+                    
+                    
+                        📋 Reason for Decision:
+                        Application did not meet our current requirements.
+                    
+                    🔄 What's Next:
+                    
+                        You may apply for other available apartments
+                        Contact us if you'd like to discuss your application
+                        We encourage you to reapply in the future
+                    
+                    
+                    We appreciate your interest in our community and encourage you to explore other opportunities with us. Please feel free to browse our available apartments and apply for any that meet your needs.
+                    
+                    If you have any questions about this decision or would like to discuss your application, please contact us at leasing@zinqbridge.com or call us at +234 (0) 803 123 4567.
+                    
+                    
+                        Best regards,
+                        Eaglonhytes Team
+                        4th Floor Tower C, ChurchGate Plaza
+                        Constitution Avenue, Abuja, FCT
+                    
+                
+            
+        
+        
+===================
+
+=== EMAIL FAILED ===
+To: ibehpromise30@gmail.com
+Subject: 🎉 Your Apartment Application Has Been Approved - Eaglonhytes
+Time: 2025-09-14 21:44:03
+Action: approved
+Error: STARTTLS failed: 250-SIZE 35882577
+
+Status: FAILED - Check Gmail App Password
+Content: 
+        
+        
+            
+                body { font-family: 'Arial', sans-serif; line-height: 1.6; color: #333; }
+                .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+                .header { background: linear-gradient(135deg, #6366f1, #8b5cf6); color: white; padding: 30px; text-align: center; border-radius: 10px 10px 0 0; }
+                .content { background: #f8fafc; padding: 30px; border-radius: 0 0 10px 10px; }
+                .success-badge { background: #10b981; color: white; padding: 8px 16px; border-radius: 20px; display: inline-block; font-weight: bold; margin: 10px 0; }
+                .apartment-details { background: white; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #6366f1; }
+                .payment-info { background: #fef3c7; border: 1px solid #f59e0b; padding: 20px; border-radius: 8px; margin: 20px 0; }
+                .footer { text-align: center; margin-top: 30px; color: #6b7280; }
+            
+        
+        
+            
+                
+                    🏠 Eaglonhytes
+                    Congratulations!
+                
+                
+                    ✅ APPLICATION APPROVED
+                    
+                    Dear Test User,
+                    
+                    We are delighted to inform you that your apartment application has been approved!
+                    
+                    
+                        📍 Apartment Details:
+                        Property: Test Luxury Apartment
+                        Address: 123 Test Street, Test City, Test State
+                        Application ID: #999
+                    
+                    
+                    
+                        💳 Payment Information
+                        Important: Payment will be done directly at the apartment location. Our leasing team will contact you within 24 hours to schedule your move-in appointment and payment collection.
+                    
+                    
+                    🎯 Next Steps:
+                    
+                        Our leasing team will contact you within 24 hours
+                        Schedule your move-in appointment
+                        Prepare required documents and payment
+                        Complete the lease signing process
+                    
+                    
+                    Welcome to the Eaglonhytes community! We look forward to having you as our valued tenant.
+                    
+                    If you have any questions, please don't hesitate to contact us at leasing@zinqbridge.com or call us at +234 (0) 803 123 4567.
+                    
+                    
+                        Best regards,
+                        Eaglonhytes Team
+                        4th Floor Tower C, ChurchGate Plaza
+                        Constitution Avenue, Abuja, FCT
+                    
+                
+            
+        
+        
+===================
+
+=== EMAIL FAILED ===
+To: ibehpromise30@gmail.com
+Subject: Update on Your Apartment Application - Eaglonhytes
+Time: 2025-09-14 21:44:04
+Action: rejected
+Error: STARTTLS failed: 250-SIZE 35882577
+
+Status: FAILED - Check Gmail App Password
+Content: 
+        
+        
+            
+                body { font-family: 'Arial', sans-serif; line-height: 1.6; color: #333; }
+                .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+                .header { background: linear-gradient(135deg, #ef4444, #f97316); color: white; padding: 30px; text-align: center; border-radius: 10px 10px 0 0; }
+                .content { background: #f8fafc; padding: 30px; border-radius: 0 0 10px 10px; }
+                .rejection-badge { background: #ef4444; color: white; padding: 8px 16px; border-radius: 20px; display: inline-block; font-weight: bold; margin: 10px 0; }
+                .apartment-details { background: white; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #ef4444; }
+                .reason-box { background: #fef2f2; border: 1px solid #fecaca; padding: 20px; border-radius: 8px; margin: 20px 0; }
+                .footer { text-align: center; margin-top: 30px; color: #6b7280; }
+            
+        
+        
+            
+                
+                    🏠 Eaglonhytes
+                    Application Update
+                
+                
+                    ❌ APPLICATION NOT APPROVED
+                    
+                    Dear Test User,
+                    
+                    Thank you for your interest in Eaglonhytes. After careful review, we regret to inform you that we are unable to approve your application at this time.
+                    
+                    
+                        📍 Application Details:
+                        Property: Test Luxury Apartment
+                        Address: 123 Test Street, Test City, Test State
+                        Application ID: #999
+                    
+                    
+                        📋 Reason for Decision:
+                        Application did not meet our current requirements.
+                    
+                    🔄 What's Next:
+                    
+                        You may apply for other available apartments
+                        Contact us if you'd like to discuss your application
+                        We encourage you to reapply in the future
+                    
+                    
+                    We appreciate your interest in our community and encourage you to explore other opportunities with us. Please feel free to browse our available apartments and apply for any that meet your needs.
+                    
+                    If you have any questions about this decision or would like to discuss your application, please contact us at leasing@zinqbridge.com or call us at +234 (0) 803 123 4567.
+                    
+                    
+                        Best regards,
+                        Eaglonhytes Team
+                        4th Floor Tower C, ChurchGate Plaza
+                        Constitution Avenue, Abuja, FCT
+                    
+                
+            
+        
+        
+===================
+
+=== EMAIL FAILED ===
+To: ibehpromise30@gmail.com
+Subject: 🎉 Your Apartment Application Has Been Approved - Eaglonhytes
+Time: 2025-09-14 21:51:27
+Action: approved
+Error: STARTTLS failed: 250-SIZE 35882577
+
+Status: FAILED - Check Gmail App Password
+Content: 
+        
+        
+            
+                body { font-family: 'Arial', sans-serif; line-height: 1.6; color: #333; }
+                .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+                .header { background: linear-gradient(135deg, #6366f1, #8b5cf6); color: white; padding: 30px; text-align: center; border-radius: 10px 10px 0 0; }
+                .content { background: #f8fafc; padding: 30px; border-radius: 0 0 10px 10px; }
+                .success-badge { background: #10b981; color: white; padding: 8px 16px; border-radius: 20px; display: inline-block; font-weight: bold; margin: 10px 0; }
+                .apartment-details { background: white; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #6366f1; }
+                .payment-info { background: #fef3c7; border: 1px solid #f59e0b; padding: 20px; border-radius: 8px; margin: 20px 0; }
+                .footer { text-align: center; margin-top: 30px; color: #6b7280; }
+            
+        
+        
+            
+                
+                    🏠 Eaglonhytes
+                    Congratulations!
+                
+                
+                    ✅ APPLICATION APPROVED
+                    
+                    Dear Test User,
+                    
+                    We are delighted to inform you that your apartment application has been approved!
+                    
+                    
+                        📍 Apartment Details:
+                        Property: Test Luxury Apartment
+                        Address: 123 Test Street, Test City, Test State
+                        Application ID: #999
+                    
+                    
+                    
+                        💳 Payment Information
+                        Important: Payment will be done directly at the apartment location. Our leasing team will contact you within 24 hours to schedule your move-in appointment and payment collection.
+                    
+                    
+                    🎯 Next Steps:
+                    
+                        Our leasing team will contact you within 24 hours
+                        Schedule your move-in appointment
+                        Prepare required documents and payment
+                        Complete the lease signing process
+                    
+                    
+                    Welcome to the Eaglonhytes community! We look forward to having you as our valued tenant.
+                    
+                    If you have any questions, please don't hesitate to contact us at leasing@zinqbridge.com or call us at +234 (0) 803 123 4567.
+                    
+                    
+                        Best regards,
+                        Eaglonhytes Team
+                        4th Floor Tower C, ChurchGate Plaza
+                        Constitution Avenue, Abuja, FCT
+                    
+                
+            
+        
+        
+===================
+
+=== EMAIL FAILED ===
+To: ibehpromise30@gmail.com
+Subject: Update on Your Apartment Application - Eaglonhytes
+Time: 2025-09-14 21:51:30
+Action: rejected
+Error: STARTTLS failed: 250-SIZE 35882577
+
+Status: FAILED - Check Gmail App Password
+Content: 
+        
+        
+            
+                body { font-family: 'Arial', sans-serif; line-height: 1.6; color: #333; }
+                .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+                .header { background: linear-gradient(135deg, #ef4444, #f97316); color: white; padding: 30px; text-align: center; border-radius: 10px 10px 0 0; }
+                .content { background: #f8fafc; padding: 30px; border-radius: 0 0 10px 10px; }
+                .rejection-badge { background: #ef4444; color: white; padding: 8px 16px; border-radius: 20px; display: inline-block; font-weight: bold; margin: 10px 0; }
+                .apartment-details { background: white; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #ef4444; }
+                .reason-box { background: #fef2f2; border: 1px solid #fecaca; padding: 20px; border-radius: 8px; margin: 20px 0; }
+                .footer { text-align: center; margin-top: 30px; color: #6b7280; }
+            
+        
+        
+            
+                
+                    🏠 Eaglonhytes
+                    Application Update
+                
+                
+                    ❌ APPLICATION NOT APPROVED
+                    
+                    Dear Test User,
+                    
+                    Thank you for your interest in Eaglonhytes. After careful review, we regret to inform you that we are unable to approve your application at this time.
+                    
+                    
+                        📍 Application Details:
+                        Property: Test Luxury Apartment
+                        Address: 123 Test Street, Test City, Test State
+                        Application ID: #999
+                    
+                    
+                        📋 Reason for Decision:
+                        Application did not meet our current requirements.
+                    
+                    🔄 What's Next:
+                    
+                        You may apply for other available apartments
+                        Contact us if you'd like to discuss your application
+                        We encourage you to reapply in the future
+                    
+                    
+                    We appreciate your interest in our community and encourage you to explore other opportunities with us. Please feel free to browse our available apartments and apply for any that meet your needs.
+                    
+                    If you have any questions about this decision or would like to discuss your application, please contact us at leasing@zinqbridge.com or call us at +234 (0) 803 123 4567.
+                    
+                    
+                        Best regards,
+                        Eaglonhytes Team
+                        4th Floor Tower C, ChurchGate Plaza
+                        Constitution Avenue, Abuja, FCT
+                    
+                
+            
+        
+        
+===================
+
+=== EMAIL FAILED ===
+To: ibehpromise30@gmail.com
+Subject: 🎉 Your Apartment Application Has Been Approved - Eaglonhytes
+Time: 2025-09-14 21:52:49
+Action: approved
+Error: STARTTLS failed: 250-SIZE 35882577
+
+Status: FAILED - Check Gmail App Password
+Content: 
+        
+        
+            
+                body { font-family: 'Arial', sans-serif; line-height: 1.6; color: #333; }
+                .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+                .header { background: linear-gradient(135deg, #6366f1, #8b5cf6); color: white; padding: 30px; text-align: center; border-radius: 10px 10px 0 0; }
+                .content { background: #f8fafc; padding: 30px; border-radius: 0 0 10px 10px; }
+                .success-badge { background: #10b981; color: white; padding: 8px 16px; border-radius: 20px; display: inline-block; font-weight: bold; margin: 10px 0; }
+                .apartment-details { background: white; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #6366f1; }
+                .payment-info { background: #fef3c7; border: 1px solid #f59e0b; padding: 20px; border-radius: 8px; margin: 20px 0; }
+                .footer { text-align: center; margin-top: 30px; color: #6b7280; }
+            
+        
+        
+            
+                
+                    🏠 Eaglonhytes
+                    Congratulations!
+                
+                
+                    ✅ APPLICATION APPROVED
+                    
+                    Dear Test User,
+                    
+                    We are delighted to inform you that your apartment application has been approved!
+                    
+                    
+                        📍 Apartment Details:
+                        Property: Test Luxury Apartment
+                        Address: 123 Test Street, Test City, Test State
+                        Application ID: #999
+                    
+                    
+                    
+                        💳 Payment Information
+                        Important: Payment will be done directly at the apartment location. Our leasing team will contact you within 24 hours to schedule your move-in appointment and payment collection.
+                    
+                    
+                    🎯 Next Steps:
+                    
+                        Our leasing team will contact you within 24 hours
+                        Schedule your move-in appointment
+                        Prepare required documents and payment
+                        Complete the lease signing process
+                    
+                    
+                    Welcome to the Eaglonhytes community! We look forward to having you as our valued tenant.
+                    
+                    If you have any questions, please don't hesitate to contact us at leasing@zinqbridge.com or call us at +234 (0) 803 123 4567.
+                    
+                    
+                        Best regards,
+                        Eaglonhytes Team
+                        4th Floor Tower C, ChurchGate Plaza
+                        Constitution Avenue, Abuja, FCT
+                    
+                
+            
+        
+        
+===================
+
+=== EMAIL FAILED ===
+To: ibehpromise30@gmail.com
+Subject: Update on Your Apartment Application - Zinq Bridge Apartments
+Time: 2025-09-14 21:52:50
+Action: rejected
+Error: STARTTLS failed: 250-SIZE 35882577
+
+Status: FAILED - Check Gmail App Password
+Content: 
+        
+        
+            
+                body { font-family: 'Arial', sans-serif; line-height: 1.6; color: #333; }
+                .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+                .header { background: linear-gradient(135deg, #ef4444, #f97316); color: white; padding: 30px; text-align: center; border-radius: 10px 10px 0 0; }
+                .content { background: #f8fafc; padding: 30px; border-radius: 0 0 10px 10px; }
+                .rejection-badge { background: #ef4444; color: white; padding: 8px 16px; border-radius: 20px; display: inline-block; font-weight: bold; margin: 10px 0; }
+                .apartment-details { background: white; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #ef4444; }
+                .reason-box { background: #fef2f2; border: 1px solid #fecaca; padding: 20px; border-radius: 8px; margin: 20px 0; }
+                .footer { text-align: center; margin-top: 30px; color: #6b7280; }
+            
+        
+        
+            
+                
+                    🏠 Zinq Bridge Apartments
+                    Application Update
+                
+                
+                    ❌ APPLICATION NOT APPROVED
+                    
+                    Dear Test User,
+                    
+                    Thank you for your interest in Zinq Bridge Apartments. After careful review, we regret to inform you that we are unable to approve your application at this time.
+                    
+                    
+                        📍 Application Details:
+                        Property: Test Luxury Apartment
+                        Address: 123 Test Street, Test City, Test State
+                        Application ID: #999
+                    
+                    
+                        📋 Reason for Decision:
+                        Application did not meet our current requirements.
+                    
+                    🔄 What's Next:
+                    
+                        You may apply for other available apartments
+                        Contact us if you'd like to discuss your application
+                        We encourage you to reapply in the future
+                    
+                    
+                    We appreciate your interest in our community and encourage you to explore other opportunities with us. Please feel free to browse our available apartments and apply for any that meet your needs.
+                    
+                    If you have any questions about this decision or would like to discuss your application, please contact us at leasing@zinqbridge.com or call us at +234 (0) 803 123 4567.
+                    
+                    
+                        Best regards,
+                        Zinq Bridge Apartments Team
+                        4th Floor Tower C, ChurchGate Plaza
+                        Constitution Avenue, Abuja, FCT
+                    
+                
+            
+        
+        
+===================
+
+=== EMAIL FAILED ===
+To: ibehpromise30@gmail.com
+Subject: 🎉 Your Apartment Application Has Been Approved - Zinq Bridge Apartments
+Time: 2025-09-14 21:56:05
+Action: approved
+Error: STARTTLS failed: 250 SMTPUTF8
+
+Status: FAILED - Check Gmail App Password
+Content: 
+        
+        
+            
+                body { font-family: 'Arial', sans-serif; line-height: 1.6; color: #333; }
+                .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+                .header { background: linear-gradient(135deg, #6366f1, #8b5cf6); color: white; padding: 30px; text-align: center; border-radius: 10px 10px 0 0; }
+                .content { background: #f8fafc; padding: 30px; border-radius: 0 0 10px 10px; }
+                .success-badge { background: #10b981; color: white; padding: 8px 16px; border-radius: 20px; display: inline-block; font-weight: bold; margin: 10px 0; }
+                .apartment-details { background: white; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #6366f1; }
+                .payment-info { background: #fef3c7; border: 1px solid #f59e0b; padding: 20px; border-radius: 8px; margin: 20px 0; }
+                .footer { text-align: center; margin-top: 30px; color: #6b7280; }
+            
+        
+        
+            
+                
+                    🏠 Zinq Bridge Apartments
+                    Congratulations!
+                
+                
+                    ✅ APPLICATION APPROVED
+                    
+                    Dear Test User,
+                    
+                    We are delighted to inform you that your apartment application has been approved!
+                    
+                    
+                        📍 Apartment Details:
+                        Property: Test Luxury Apartment
+                        Address: 123 Test Street, Test City, Test State
+                        Application ID: #999
+                    
+                    
+                    
+                        💳 Payment Information
+                        Important: Payment will be done directly at the apartment location. Our leasing team will contact you within 24 hours to schedule your move-in appointment and payment collection.
+                    
+                    
+                    🎯 Next Steps:
+                    
+                        Our leasing team will contact you within 24 hours
+                        Schedule your move-in appointment
+                        Prepare required documents and payment
+                        Complete the lease signing process
+                    
+                    
+                    Welcome to the Zinq Bridge Apartments community! We look forward to having you as our valued tenant.
+                    
+                    If you have any questions, please don't hesitate to contact us at leasing@zinqbridge.com or call us at +234 (0) 803 123 4567.
+                    
+                    
+                        Best regards,
+                        Zinq Bridge Apartments Team
+                        4th Floor Tower C, ChurchGate Plaza
+                        Constitution Avenue, Abuja, FCT
+                    
+                
+            
+        
+        
+===================
+
+=== EMAIL FAILED ===
+To: ibehpromise30@gmail.com
+Subject: Update on Your Apartment Application - Zinq Bridge Apartments
+Time: 2025-09-14 21:56:06
+Action: rejected
+Error: STARTTLS failed: 250 SMTPUTF8
+
+Status: FAILED - Check Gmail App Password
+Content: 
+        
+        
+            
+                body { font-family: 'Arial', sans-serif; line-height: 1.6; color: #333; }
+                .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+                .header { background: linear-gradient(135deg, #ef4444, #f97316); color: white; padding: 30px; text-align: center; border-radius: 10px 10px 0 0; }
+                .content { background: #f8fafc; padding: 30px; border-radius: 0 0 10px 10px; }
+                .rejection-badge { background: #ef4444; color: white; padding: 8px 16px; border-radius: 20px; display: inline-block; font-weight: bold; margin: 10px 0; }
+                .apartment-details { background: white; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #ef4444; }
+                .reason-box { background: #fef2f2; border: 1px solid #fecaca; padding: 20px; border-radius: 8px; margin: 20px 0; }
+                .footer { text-align: center; margin-top: 30px; color: #6b7280; }
+            
+        
+        
+            
+                
+                    🏠 Zinq Bridge Apartments
+                    Application Update
+                
+                
+                    ❌ APPLICATION NOT APPROVED
+                    
+                    Dear Test User,
+                    
+                    Thank you for your interest in Zinq Bridge Apartments. After careful review, we regret to inform you that we are unable to approve your application at this time.
+                    
+                    
+                        📍 Application Details:
+                        Property: Test Luxury Apartment
+                        Address: 123 Test Street, Test City, Test State
+                        Application ID: #999
+                    
+                    
+                        📋 Reason for Decision:
+                        Application did not meet our current requirements.
+                    
+                    🔄 What's Next:
+                    
+                        You may apply for other available apartments
+                        Contact us if you'd like to discuss your application
+                        We encourage you to reapply in the future
+                    
+                    
+                    We appreciate your interest in our community and encourage you to explore other opportunities with us. Please feel free to browse our available apartments and apply for any that meet your needs.
+                    
+                    If you have any questions about this decision or would like to discuss your application, please contact us at leasing@zinqbridge.com or call us at +234 (0) 803 123 4567.
+                    
+                    
+                        Best regards,
+                        Zinq Bridge Apartments Team
+                        4th Floor Tower C, ChurchGate Plaza
+                        Constitution Avenue, Abuja, FCT
+                    
+                
+            
+        
+        
+===================
+
+=== EMAIL FAILED ===
+To: ibehpromise30@gmail.com
+Subject: 🎉 Your Apartment Application Has Been Approved - Zinq Bridge Apartments
+Time: 2025-09-14 21:56:16
+Action: approved
+Error: STARTTLS failed: 250 SMTPUTF8
+
+Status: FAILED - Check Gmail App Password
+Content: 
+        
+        
+            
+                body { font-family: 'Arial', sans-serif; line-height: 1.6; color: #333; }
+                .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+                .header { background: linear-gradient(135deg, #6366f1, #8b5cf6); color: white; padding: 30px; text-align: center; border-radius: 10px 10px 0 0; }
+                .content { background: #f8fafc; padding: 30px; border-radius: 0 0 10px 10px; }
+                .success-badge { background: #10b981; color: white; padding: 8px 16px; border-radius: 20px; display: inline-block; font-weight: bold; margin: 10px 0; }
+                .apartment-details { background: white; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #6366f1; }
+                .payment-info { background: #fef3c7; border: 1px solid #f59e0b; padding: 20px; border-radius: 8px; margin: 20px 0; }
+                .footer { text-align: center; margin-top: 30px; color: #6b7280; }
+            
+        
+        
+            
+                
+                    🏠 Zinq Bridge Apartments
+                    Congratulations!
+                
+                
+                    ✅ APPLICATION APPROVED
+                    
+                    Dear Test User,
+                    
+                    We are delighted to inform you that your apartment application has been approved!
+                    
+                    
+                        📍 Apartment Details:
+                        Property: Test Luxury Apartment
+                        Address: 123 Test Street, Test City, Test State
+                        Application ID: #999
+                    
+                    
+                    
+                        💳 Payment Information
+                        Important: Payment will be done directly at the apartment location. Our leasing team will contact you within 24 hours to schedule your move-in appointment and payment collection.
+                    
+                    
+                    🎯 Next Steps:
+                    
+                        Our leasing team will contact you within 24 hours
+                        Schedule your move-in appointment
+                        Prepare required documents and payment
+                        Complete the lease signing process
+                    
+                    
+                    Welcome to the Zinq Bridge Apartments community! We look forward to having you as our valued tenant.
+                    
+                    If you have any questions, please don't hesitate to contact us at leasing@zinqbridge.com or call us at +234 (0) 803 123 4567.
+                    
+                    
+                        Best regards,
+                        Zinq Bridge Apartments Team
+                        4th Floor Tower C, ChurchGate Plaza
+                        Constitution Avenue, Abuja, FCT
+                    
+                
+            
+        
+        
+===================
+
+=== EMAIL FAILED ===
+To: ibehpromise30@gmail.com
+Subject: Update on Your Apartment Application - Zinq Bridge Apartments
+Time: 2025-09-14 21:56:16
+Action: rejected
+Error: STARTTLS failed: 250 SMTPUTF8
+
+Status: FAILED - Check Gmail App Password
+Content: 
+        
+        
+            
+                body { font-family: 'Arial', sans-serif; line-height: 1.6; color: #333; }
+                .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+                .header { background: linear-gradient(135deg, #ef4444, #f97316); color: white; padding: 30px; text-align: center; border-radius: 10px 10px 0 0; }
+                .content { background: #f8fafc; padding: 30px; border-radius: 0 0 10px 10px; }
+                .rejection-badge { background: #ef4444; color: white; padding: 8px 16px; border-radius: 20px; display: inline-block; font-weight: bold; margin: 10px 0; }
+                .apartment-details { background: white; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #ef4444; }
+                .reason-box { background: #fef2f2; border: 1px solid #fecaca; padding: 20px; border-radius: 8px; margin: 20px 0; }
+                .footer { text-align: center; margin-top: 30px; color: #6b7280; }
+            
+        
+        
+            
+                
+                    🏠 Zinq Bridge Apartments
+                    Application Update
+                
+                
+                    ❌ APPLICATION NOT APPROVED
+                    
+                    Dear Test User,
+                    
+                    Thank you for your interest in Zinq Bridge Apartments. After careful review, we regret to inform you that we are unable to approve your application at this time.
+                    
+                    
+                        📍 Application Details:
+                        Property: Test Luxury Apartment
+                        Address: 123 Test Street, Test City, Test State
+                        Application ID: #999
+                    
+                    
+                        📋 Reason for Decision:
+                        Application did not meet our current requirements.
+                    
+                    🔄 What's Next:
+                    
+                        You may apply for other available apartments
+                        Contact us if you'd like to discuss your application
+                        We encourage you to reapply in the future
+                    
+                    
+                    We appreciate your interest in our community and encourage you to explore other opportunities with us. Please feel free to browse our available apartments and apply for any that meet your needs.
+                    
+                    If you have any questions about this decision or would like to discuss your application, please contact us at leasing@zinqbridge.com or call us at +234 (0) 803 123 4567.
+                    
+                    
+                        Best regards,
+                        Zinq Bridge Apartments Team
+                        4th Floor Tower C, ChurchGate Plaza
+                        Constitution Avenue, Abuja, FCT
+                    
+                
+            
+        
+        
+===================
+
+=== EMAIL FAILED (PHP MAIL) ===
+To: ibehpromise30@gmail.com
+Subject: 🎉 Your Apartment Application Has Been Approved - Zinq Bridge Apartments
+Time: 2025-09-14 21:59:45
+Action: approved
+Error: PHP mail() function failed
+Status: FAILED - Check SMTP configuration
+Content: 
+        
+        
+            
+                body { font-family: 'Arial', sans-serif; line-height: 1.6; color: #333; }
+                .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+                .header { background: linear-gradient(135deg, #6366f1, #8b5cf6); color: white; padding: 30px; text-align: center; border-radius: 10px 10px 0 0; }
+                .content { background: #f8fafc; padding: 30px; border-radius: 0 0 10px 10px; }
+                .success-badge { background: #10b981; color: white; padding: 8px 16px; border-radius: 20px; display: inline-block; font-weight: bold; margin: 10px 0; }
+                .apartment-details { background: white; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #6366f1; }
+                .payment-info { background: #fef3c7; border: 1px solid #f59e0b; padding: 20px; border-radius: 8px; margin: 20px 0; }
+                .footer { text-align: center; margin-top: 30px; color: #6b7280; }
+            
+        
+        
+            
+                
+                    🏠 Zinq Bridge Apartments
+                    Congratulations!
+                
+                
+                    ✅ APPLICATION APPROVED
+                    
+                    Dear Test User,
+                    
+                    We are delighted to inform you that your apartment application has been approved!
+                    
+                    
+                        📍 Apartment Details:
+                        Property: Test Luxury Apartment
+                        Address: 123 Test Street, Test City, Test State
+                        Application ID: #999
+                    
+                    
+                    
+                        💳 Payment Information
+                        Important: Payment will be done directly at the apartment location. Our leasing team will contact you within 24 hours to schedule your move-in appointment and payment collection.
+                    
+                    
+                    🎯 Next Steps:
+                    
+                        Our leasing team will contact you within 24 hours
+                        Schedule your move-in appointment
+                        Prepare required documents and payment
+                        Complete the lease signing process
+                    
+                    
+                    Welcome to the Zinq Bridge Apartments community! We look forward to having you as our valued tenant.
+                    
+                    If you have any questions, please don't hesitate to contact us at leasing@zinqbridge.com or call us at +234 (0) 803 123 4567.
+                    
+                    
+                        Best regards,
+                        Zinq Bridge Apartments Team
+                        4th Floor Tower C, ChurchGate Plaza
+                        Constitution Avenue, Abuja, FCT
+                    
+                
+            
+        
+        
+===================
+
+=== EMAIL FAILED (PHP MAIL) ===
+To: ibehpromise30@gmail.com
+Subject: Update on Your Apartment Application - Zinq Bridge Apartments
+Time: 2025-09-14 21:59:45
+Action: rejected
+Error: PHP mail() function failed
+Status: FAILED - Check SMTP configuration
+Content: 
+        
+        
+            
+                body { font-family: 'Arial', sans-serif; line-height: 1.6; color: #333; }
+                .container { max-width: 600px; margin: 0 auto; padding: 20px; }
+                .header { background: linear-gradient(135deg, #ef4444, #f97316); color: white; padding: 30px; text-align: center; border-radius: 10px 10px 0 0; }
+                .content { background: #f8fafc; padding: 30px; border-radius: 0 0 10px 10px; }
+                .rejection-badge { background: #ef4444; color: white; padding: 8px 16px; border-radius: 20px; display: inline-block; font-weight: bold; margin: 10px 0; }
+                .apartment-details { background: white; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #ef4444; }
+                .reason-box { background: #fef2f2; border: 1px solid #fecaca; padding: 20px; border-radius: 8px; margin: 20px 0; }
+                .footer { text-align: center; margin-top: 30px; color: #6b7280; }
+            
+        
+        
+            
+                
+                    🏠 Zinq Bridge Apartments
+                    Application Update
+                
+                
+                    ❌ APPLICATION NOT APPROVED
+                    
+                    Dear Test User,
+                    
+                    Thank you for your interest in Zinq Bridge Apartments. After careful review, we regret to inform you that we are unable to approve your application at this time.
+                    
+                    
+                        📍 Application Details:
+                        Property: Test Luxury Apartment
+                        Address: 123 Test Street, Test City, Test State
+                        Application ID: #999
+                    
+                    
+                        📋 Reason for Decision:
+                        Application did not meet our current requirements.
+                    
+                    🔄 What's Next:
+                    
+                        You may apply for other available apartments
+                        Contact us if you'd like to discuss your application
+                        We encourage you to reapply in the future
+                    
+                    
+                    We appreciate your interest in our community and encourage you to explore other opportunities with us. Please feel free to browse our available apartments and apply for any that meet your needs.
+                    
+                    If you have any questions about this decision or would like to discuss your application, please contact us at leasing@zinqbridge.com or call us at +234 (0) 803 123 4567.
+                    
+                    
+                        Best regards,
+                        Zinq Bridge Apartments Team
+                        4th Floor Tower C, ChurchGate Plaza
+                        Constitution Avenue, Abuja, FCT
+                    
+                
+            
+        
+        
+===================
+
+=== EMAIL NOTIFICATION READY ===
+To: ibehpromise30@gmail.com
+Subject: 🎉 Your Apartment Application Has Been Approved - Zinq Bridge Apartments
+Time: 2025-09-14 22:01:36
+Action: approved
+Status: SYSTEM READY - Email content generated successfully
+Note: Email system functional, ready for production SMTP service
+Content Preview: 
+        
+        
+            
+                body { font-family: 'Arial', sans-serif; line-height: 1.6; color: #333; }
+                .container { max-width: 600px; margin: 0 auto; padding: 20px; ...
+===============================
+
+=== EMAIL NOTIFICATION READY ===
+To: ibehpromise30@gmail.com
+Subject: Update on Your Apartment Application - Zinq Bridge Apartments
+Time: 2025-09-14 22:01:36
+Action: rejected
+Status: SYSTEM READY - Email content generated successfully
+Note: Email system functional, ready for production SMTP service
+Content Preview: 
+        
+        
+            
+                body { font-family: 'Arial', sans-serif; line-height: 1.6; color: #333; }
+                .container { max-width: 600px; margin: 0 auto; padding: 20px; ...
+===============================
+
+=== EMAIL DELIVERED SUCCESSFULLY ===
+To: ibehpromise30@gmail.com
+Subject: 🎉 Your Apartment Application Has Been Approved - Zinq Bridge Apartments
+Time: 2025-09-14 22:12:22
+Action: approved
+Status: DELIVERED via Socket SMTP
+Method: Gmail SMTP with STARTTLS
+===============================
+
+=== EMAIL DELIVERED SUCCESSFULLY ===
+To: ibehpromise30@gmail.com
+Subject: Update on Your Apartment Application - Zinq Bridge Apartments
+Time: 2025-09-14 22:12:26
+Action: rejected
+Status: DELIVERED via Socket SMTP
+Method: Gmail SMTP with STARTTLS
+===============================
+
+=== EMAIL DELIVERED SUCCESSFULLY ===
+To: ibehpromise30@gmail.com
+Subject: 🎉 Your Apartment Application Has Been Approved - Zinq Bridge Apartments
+Time: 2025-09-14 22:32:31
+Action: approved
+Status: DELIVERED via Socket SMTP
+Method: Gmail SMTP with STARTTLS
+===============================
+
+=== EMAIL DELIVERED SUCCESSFULLY ===
+To: ibehpromise30@gmail.com
+Subject: Update on Your Apartment Application - Zinq Bridge Apartments
+Time: 2025-09-14 22:32:35
+Action: rejected
+Status: DELIVERED via Socket SMTP
+Method: Gmail SMTP with STARTTLS
+===============================
+
+=== EMAIL DELIVERED SUCCESSFULLY ===
+To: promisejohnson573@gmail.com
+Subject: 🎉 Your Apartment Application Has Been Approved - Zinq Bridge Apartments
+Time: 2025-09-15 00:12:59
+Action: approved
+Status: DELIVERED via Socket SMTP
+Method: Gmail SMTP with STARTTLS
+===============================
+
+=== EMAIL DELIVERED SUCCESSFULLY ===
+To: amanaprosper8@gmail.com
+Subject: 🎉 Your Apartment Application Has Been Approved - Zinq Bridge Apartments
+Time: 2025-09-16 17:59:13
+Action: approved
+Status: DELIVERED via Socket SMTP
+Method: Gmail SMTP with STARTTLS
+===============================
+

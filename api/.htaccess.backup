@@ -1,0 +1,60 @@
+# Eaglonhytes API Security Configuration
+
+# Prevent directory listing
+Options -Indexes
+
+# Protect sensitive files
+<FilesMatch "\.(env|log|sql|md|txt)$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Protect specific files
+<Files "config.php">
+    Order allow,deny
+    Deny from all
+</Files>
+
+<Files "env_config.php">
+    Order allow,deny
+    Deny from all
+</Files>
+
+<Files "session_config.php">
+    Order allow,deny
+    Deny from all
+</Files>
+
+# Allow PHP files to be accessed
+<FilesMatch "\.php$">
+    Order allow,deny
+    Allow from all
+</FilesMatch>
+
+# Enable HTTPS redirect (uncomment in production)
+# RewriteEngine On
+# RewriteCond %{HTTPS} off
+# RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Security headers
+<IfModule mod_headers.c>
+    Header set X-Content-Type-Options "nosniff"
+    Header set X-Frame-Options "SAMEORIGIN"
+    Header set X-XSS-Protection "1; mode=block"
+    Header set Referrer-Policy "strict-origin-when-cross-origin"
+    
+    # Prevent caching of API responses
+    Header set Cache-Control "no-store, no-cache, must-revalidate, max-age=0"
+    Header set Pragma "no-cache"
+</IfModule>
+
+# Limit request size (10MB)
+php_value upload_max_filesize 10M
+php_value post_max_size 10M
+
+# Disable PHP execution in uploads directory
+<Directory "uploads">
+    php_flag engine off
+    RemoveHandler .php .phtml .php3
+    RemoveType .php .phtml .php3
+</Directory>
