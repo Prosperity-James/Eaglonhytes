@@ -1,8 +1,11 @@
 // API Configuration and Client
-// Use Vite proxy in development, full URL in production
+// Use Vite proxy in development, full backend URL in production
 const API_BASE_URL = import.meta.env.VITE_API_URL || (
-  import.meta.env.DEV ? '/api' : 'http://localhost/Eaglonhytes-main/api'
+  import.meta.env.DEV 
+    ? '/api' 
+    : 'https://eaglonhytes.infinityfreeapp.com/api'  // ✅ your real backend
 );
+
 
 const API_CONFIG = {
   baseURL: API_BASE_URL,
