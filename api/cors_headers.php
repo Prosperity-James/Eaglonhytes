@@ -25,22 +25,23 @@ $origin = $_SERVER['HTTP_ORIGIN'] ?? '';
 
 // Define allowed origins based on environment
 if ($isProduction) {
-    // Production: Only allow your production domain
+    // ✅ Production: Allow your Vercel frontend and optional custom domains
     $allowed_origins = [
-        defined('FRONTEND_URL') ? FRONTEND_URL : 'https://yourdomain.com',
-        // Add additional production domains if needed
+        defined('FRONTEND_URL') ? FRONTEND_URL : 'https://eaglonhytes.vercel.app',
+        'https://eaglonhytes.vercel.app',
+        'https://www.eaglonhytes.vercel.app',
     ];
 } else {
-    // Development: Allow localhost ports and proxy URLs
+    // ✅ Development: Allow localhost and common dev ports
     $allowed_origins = [
         'http://localhost:5173',
-        'http://localhost:5174', 
+        'http://localhost:5174',
         'http://localhost:5175',
         'http://localhost:3000',
         'http://localhost',
-        'http://127.0.0.1:59350',
         'http://127.0.0.1:5173',
-        'http://127.0.0.1:5174'
+        'http://127.0.0.1:5174',
+        'http://127.0.0.1:59350',
     ];
 }
 
@@ -48,8 +49,8 @@ if ($isProduction) {
 if (in_array($origin, $allowed_origins)) {
     header("Access-Control-Allow-Origin: $origin");
 } else {
-    // Fallback to primary frontend URL
-    $fallback = $isProduction ? 'https://yourdomain.com' : 'http://localhost:5173';
+    // ✅ Fallback to your production frontend URL
+    $fallback = $isProduction ? 'https://eaglonhytes.vercel.app' : 'http://localhost:5173';
     header("Access-Control-Allow-Origin: $fallback");
 }
 
